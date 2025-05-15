@@ -1,0 +1,32 @@
+**End-User License Agreement (EULA) for PixelFairy By M Saajeel ⭐**
+
+**IMPORTANT: PLEASE READ THIS END-USER LICENSE AGREEMENT CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING THE "PixelFairy By M Saajeel ⭐" ANKI ADDON (THE "ADDON"), YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA.**
+
+**1. License Grant**
+M Saajeel ("Licensor") grants you ("Licensee") a limited, non-exclusive, non-transferable license to download, install, and use the Addon on any Anki-compatible device that you own or control, solely for your personal, non-commercial use in conjunction with the Anki application.
+
+**2. Restrictions**
+You agree not to, and you will not permit others to:
+    a. Copy, modify, or create derivative works based on the Addon, except as expressly permitted by this EULA or applicable law.
+    b. Distribute, sublicense, rent, lease, lend, sell, or otherwise transfer the Addon to any third party.
+    c. Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Addon, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. (We acknowledge that Python code, the language Anki addons are typically written in, is inherently more transparent than compiled languages, but this restriction applies to the extent legally permissible.)
+    d. Use the Addon for any illegal or unauthorized purpose.
+
+**3. Intellectual Property**
+The Addon is licensed, not sold, to you. The Addon is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. M Saajeel retains all right, title, and interest in and to the Addon, including all copyrights, patents, trade secrets, trademarks, and other intellectual property rights. All rights not expressly granted to you in this EULA are reserved by M Saajeel.
+
+**4. Disclaimer of Warranty**
+THE ADDON IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE ADDON WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT DEFECTS WILL BE CORRECTED. YOU ACKNOWLEDGE THAT YOUR USE OF THE ADDON IS AT YOUR SOLE RISK.
+
+**5. Limitation of Liability**
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF OR RELATING TO YOUR USE OF OR INABILITY TO USE THE ADDON, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL LICENSOR'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES EXCEED THE AMOUNT YOU PAID FOR THE ADDON, IF ANY.
+
+**6. Termination**
+This EULA is effective until terminated. Your rights under this license will terminate automatically without notice from Licensor if you fail to comply with any term(s) of this EULA. Upon termination of the EULA, you shall cease all use of the Addon and destroy all copies, full or partial, of the Addon. Sections 2 (Restrictions), 3 (Intellectual Property), 4 (Disclaimer of Warranty), 5 (Limitation of Liability), and 7 (Governing Law) shall survive any termination of this EULA.
+
+**7. Governing Law**
+This EULA shall be governed by and construed in accordance with the laws of Indian Contract Act, 1872, without regard to its conflict of law principles.
+
+**Contact Information:**
+If you have any questions about this EULA, please contact M Saajeel. 
+he7cules@gmail.com

@@ -1,0 +1,20 @@
+{
+    "package": "AutoCards_by_M_Sajeel",
+    "name": "Pixel Fairy (by M Saajeel) ⭐",
+    "version": "0.1",
+    "min_anki_version": "2.1.0",
+    "max_anki_version": "2.1.99",
+    "config": {
+        "api_keys": [],
+        "current_api_key_index": 0,
+        "model_name": "gemini-2.5-flash-preview-04-17",
+        "prompt1": "",
+        "prompt2": ""
+    },
+    "description": "Generate flashcard content using the Gemini API with custom prompts and API key rotation.",
+    "dir": "AutoCards_by_M_Sajeel",
+    "issue_url": "https://github.com/yourusername/autocards-anki-addon/issues",
+    "license": "MIT",
+    "tags": ["anki", "gemini", "ai", "flashcards", "automation"],
+    "homepage": "https://github.com/yourusername/autocards-anki-addon"
+}
