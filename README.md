@@ -1,4 +1,4 @@
-# Pixel Fairy 🧚‍♂️
+# Pixel Fairy - an AI Add-on for Anki🧚‍♂️
 
 ## Showcase and tutorial (click👇)
 
