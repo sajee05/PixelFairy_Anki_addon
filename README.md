@@ -1,4 +1,4 @@
-## Showcase and tutorial
+## Showcase and tutorial (click 👇)
 
 <a href="https://youtu.be/R19qORouQ_4?feature=shared" target="_blank">
   <img src="https://i.ibb.co/DPFhs6Nz/thumb.jpg" alt="Showcase and tutorial" style="max-width: 560px;">
