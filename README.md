@@ -66,6 +66,8 @@ Pixel Fairy comes with powerful default prompts to get you started immediately. 
 
 ## 🎁 Support the creator!
 
-I have intentionally kept the add-on completely free, since all the other alternatives are paid and not customizable. If you found Pixel Fairy AI Assistance useful, please consider supporting the creator. Your support is incredibly helpful and allows for continued development and improvements! 💝 (click 👇)
+I have intentionally kept the add-on completely free, since all the other alternatives are paid and not customizable. If you found Pixel Fairy AI Assistance useful, please consider supporting the creator. Your support is incredibly helpful and allows for continued development and improvements! 💝 
+
+you can support with as low as 1$ (click 👇) 
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png)](https://www.buymeacoffee.com/he7cules)
