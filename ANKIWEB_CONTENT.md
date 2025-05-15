@@ -1,78 +1,62 @@
 # ✨ Pixel Fairy (by M Saajeel) ⭐: Your AI Assistant for Anki Card Creation!
 
-Tired of manually typing out definitions, explanations, or questions for your Anki cards? Let **Pixel Fairy** do the heavy lifting! This addon integrates the power of the **Google Gemini API** directly into your Anki editor, helping you create richer, more effective flashcards faster than ever.
+## 🚀 Supercharge Your Flashcard Creation! 🚀
 
-## 🌟 Why You'll Love Pixel Fairy 🌟
+Tired of spending hours manually creating Anki cards? Wish you could instantly get explanations, generate questions, or even understand images for your flashcards? **Pixel Fairy is here to revolutionize your study workflow!**
 
-* **AI-Powered Content Generation:** Select text or an image in your card, choose a custom instruction (prompt), and watch Pixel Fairy generate definitions, explanations, summaries, questions, and more!
-* **Your Prompts, Your Control:** Craft up to three unique prompts tailored to your study needs. Want definitions? Explanations? Questions about an image? You decide what the AI does!
-* **Image-to-Text Magic:** Pixel Fairy can "see" images in your cards! Ask it to describe an image, generate questions about it, or extract text.
-* **Flexible & Efficient:**
-  * Supports up to **5 Google Gemini API keys** with automatic rotation to help manage usage and avoid rate limits.
-  * Choose where the AI-generated content goes: **replace** your selection, add it **on top**, or place it **below**.
-* **Seamless Workflow:**
-  * Quick access buttons (🤖1, 🤖2, 🤖3) directly in the Anki editor.
-  * Handy keyboard shortcuts (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`) for lightning-fast use.
-  * Works from the Anki browser's context menu too!
+Pixel Fairy seamlessly integrates the cutting-edge power of the Google Gemini AI directly into your Anki editor. Save precious time, customize cards on the spot, and say goodbye to endless searching and copy-pasting!
 
-## 🚀 How to Get Started (Setup - Very Important!) 🚀
+## 🤔 What Does Pixel Fairy Do For YOU?
 
-1. **Install Pixel Fairy:**
-   
-   * Download the addon from this page (look for a `.ankiaddon` file or an addon ID).
-   * In Anki, go to `Tools > Add-ons`.
-   * If you have the file, drag & drop it onto the Add-ons window or use "Install From File...". If you have an ID, use "Get Add-ons...".
-   * Restart Anki.
+* **Saves You Massive Amounts of Time:** Automate the creation of definitions, explanations, and questions.
+* **Customize Cards Instantly:** Tailor content to your exact learning needs without leaving Anki.
+* **No More Constant Googling:** Get AI-powered insights directly within your flashcard editor.
+* **Understand Visuals Effortlessly:** Use images as context for AI generation – perfect for diagrams, charts, and slides!
+* **Boost Your Learning Efficiency:** Create richer, more effective flashcards faster than ever before.
 
-2. **🔑 Add Your Google Gemini API Key(s):**
-   
-   * Pixel Fairy needs a Google Gemini API key to work. You can get one from [Google AI Studio](https://aistudio.google.com/).
-   * In Anki, go to: `Tools > Pixel Fairy (by M Saajeel) ⭐ > API and Model Settings`.
-   * Enter your API key(s) (up to 5).
-   * **This step is crucial! Without an API key, Pixel Fairy cannot function.**
+## 💡 Use Cases to Get You Started:
 
-3. **✍️ Create Your Custom Prompts:**
-   
-   * This is where you tell Pixel Fairy what you want the AI to do!
-   * In Anki, go to: `Tools > Pixel Fairy (by M Saajeel) ⭐ > Add Prompts`.
-   * Set up "Prompt 1", "Prompt 2", and/or "Prompt 3".
-   * **Examples:**
-     * `"Explain the selected text simply:"`
-     * `"Generate 3 questions about this:"`
-     * `"Describe this image for a flashcard:"`
-   * **The default prompts are BLANK. You MUST set your own prompts for the addon to be useful!**
+* **Studying Lecture Slides?** Take a screenshot of a slide, add it to a card, and ask Pixel Fairy to:
+  * "Explain the key concepts in this slide."
+  * "Generate 3 potential exam questions based on this slide."
+  * "Summarize the information presented here."
+* **Reading a Dense Textbook?** Select a complex paragraph and have Pixel Fairy:
+  * "Explain this paragraph in simpler terms."
+  * "Identify the main arguments in this text."
+  * "Create cloze deletions for the important terms here."
+* **Learning a New Language?**
+  * Select a sentence: "Translate this to [Target Language] and provide a usage example."
+  * Select a word: "What is the definition of this word, and give me three synonyms?"
+* **Building Vocabulary?**
+  * Input a word: "Generate a sentence using this word and an image that represents it." (Note: Pixel Fairy generates text; you'd add the image manually or use its image input for context).
+  * Input a list of terms: "Create a short definition for each of these terms."
 
-4. **(Optional) Configure Model & Output:**
-   
-   * In `API and Model Settings`, you can specify the Gemini model (e.g., `gemini-pro`).
-   * In `Tools > Pixel Fairy (by M Saajeel) ⭐ > Output Placement`, choose if new content replaces, goes above, or below your selection.
+## ⚙️ Default Prompt Power!
 
-## 💡 How to Use Pixel Fairy 💡
+Pixel Fairy comes with powerful default prompts to get you started immediately. See them in action and understand their potential by watching our **[Showcase and Tutorial Video](https://youtu.be/R19qORouQ_4?feature=shared)**. Clicking the link will take you directly to the video!
 
-1. In the Anki editor, **select some text** in a field, or make sure an **image (`<img>` tag)** is present.
-2. Click one of the **Pixel Fairy buttons (🤖1, 🤖2, 🤖3)** or use the shortcuts (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`).
-3. A "Working..." dialog will appear.
-4. Voilà! The AI-generated content appears in your card, formatted and ready!
+## ✨ Pro Tips for Best Results:
 
-## ✨ Unlock Your Card Creation Superpowers! (Use Cases) ✨
-
-* **Generate Definitions:** Quickly get definitions for new vocabulary.
-* **Create Questions:** Turn notes into cloze deletions, short answer, or multiple-choice questions.
-* **Summarize Text:** Condense long articles or paragraphs.
-* **Explain Concepts:** Get simplified explanations of complex topics.
-* **Translate:** Instantly translate text snippets.
-* **Describe Images:** Get textual descriptions of images in your cards.
-* **Ask About Images:** Generate questions based on visual content.
-* ...and much more! Experiment with your prompts!
-
-## ⚠️ Important Notes ⚠️
-
-* **You NEED your own Google Gemini API key(s).** The addon does not come with one.
-* **You MUST set up your own custom prompts.** The default prompts are empty and will not generate useful content.
-* The addon uses the Google Gemini API. Your usage of the API may be subject to Google's terms of service and pricing (though they often have a generous free tier). Please check Google's official documentation for details.
-* Image processing works with standard `<img>` tags. It skips Data URIs and very large images.
+1. **Optimal Cloze Cards:** For the best experience creating cloze deletion cards, we recommend using **[this specific card type](https://drive.google.com/file/d/1pwso7j7rE1mLouopf4Jl57usPOO3gSvX/view?usp=drive_link)**. (Click to download from Google Drive).
+2. **Join the Community:** Discuss your card-making prompts, share workflows, and get help from other users in our **[GitHub Discussions](https://github.com/sajee05/PixelFairy_Anki_addon/discussions)**.
+3. **Formatting Control:** If you need specific line spacing (like pressing "Enter" for a new paragraph) in the AI's output, instruct the AI to use `<br>` tags. For example: "Explain concept X. Please use a `<br>` tag between each point." (Refer to the default prompts for more examples).
 
 ---
 
-We hope Pixel Fairy helps you create amazing Anki cards more efficiently!
-If you have issues or feedback, please check the GitHub repository by clicking on "Contact Author"
+## Showcase and tutorial
+
+<a href="https://youtu.be/R19qORouQ_4?feature=shared" target="_blank">
+  <img src="https://i.ibb.co/gZ4Yp2g/Pixel-Fairy-Showcase-Tutorial.png" alt="Showcase and tutorial" style="max-width: 560px;">
+</a>
+
+---
+
+If you found Pixel Fairy useful, please consider supporting the creator. Your support is incredibly helpful and allows for continued development and improvements! 💝
+
+<a href="https://www.buymeacoffee.com/he7cules" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="he7cules" data-color="#FFDD00" data-emoji=""  data-font="Arial" data-text="Support the Creator" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+---
+
+*The original setup and detailed feature list can be found on the [GitHub README](https://github.com/sajee05/PixelFairy_Anki_addon/blob/main/README.md).*
