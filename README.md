@@ -46,7 +46,7 @@ Pixel Fairy comes with powerful default prompts to get you started immediately. 
 ## Showcase and tutorial
 
 <a href="https://youtu.be/R19qORouQ_4?feature=shared" target="_blank">
-  <img src="https://i.ibb.co/gZ4Yp2g/Pixel-Fairy-Showcase-Tutorial.png" alt="Showcase and tutorial" style="max-width: 560px;">
+  <img src="https://i.ibb.co/DPFhs6Nz/thumb.jpg" alt="Showcase and tutorial" style="max-width: 560px;">
 </a>
 
 ---
