@@ -37,7 +37,7 @@ Pixel Fairy comes with powerful default prompts to get you started immediately. 
 
 ---
 
-If you found Pixel Fairy useful, please consider supporting the creator. Your support is incredibly helpful and allows for continued development and improvements! 💝 Click here 👇
+If you found Pixel Fairy useful, please consider supporting the creator. Your support is incredibly helpful and allows for continued development and improvements! 💝 Click 👇
 
 <a href="https://www.buymeacoffee.com/he7cules" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
